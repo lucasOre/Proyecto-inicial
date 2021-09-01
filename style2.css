@@ -1,0 +1,61 @@
+.titulo {
+    width: 100%;
+    max-width: 120rem;
+    margin: 0 auto 0 auto;
+    font-size: 2.5rem;
+}
+
+header{
+    width: 100%;
+    max-width: 120rem;
+    margin: 0 auto 0 auto;
+    background-color: cadetblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    border-radius: 1rem;
+    justify-content: space-around;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.6rem;
+    line-height: 2;
+}
+
+.persona{
+    width: 47%;
+    background-color: #00b5e2;
+    margin: 1rem;
+    padding: 2rem;
+    border-radius: 1rem;
+    margin: 0 auto 20 auto;
+    flex: 1;
+   
+}
+h1 {
+    font-size: 2rem
+}
+
+h2 {
+    font-size: 2rem
+}
+
+h3 {
+    font-size: 2rem
+}
+
+h4 {
+    font-size: 2rem
+}
+
+img {
+    max-width: auto;
+    flex: 1;
+    height:auto
+    
+}
+
+.info{
+    font-size: 1.5rem;
+
+}
